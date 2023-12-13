@@ -1,4 +1,4 @@
-#PokemonTest by Iván Longaric Montaño
+# PokemonTest by Iván Longaric Montaño
 
 This project, developed using HTML, CSS, and JavaScript, aims to create an engaging Pokémon-themed experience.
 
