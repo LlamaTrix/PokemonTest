@@ -13,6 +13,6 @@ The primary goal is to allow users to select a Pokémon, give it a name, and hav
 ### Copyright Information
 Pokémon and its related characters are trademarks of Nintendo, Game Freak, and Creatures Inc. This project is a fan-made creation and is not affiliated with, endorsed, sponsored, or specifically approved by any of the mentioned entities. All rights to Pokémon and related materials belong to their respective owners.
 
-### ![PokemonTest Image](path/to/your/image.png)
+### ![PokemonTest Image](assets/image.png)
 
 Feel free to contribute and make this Pokémon adventure even more exciting!
